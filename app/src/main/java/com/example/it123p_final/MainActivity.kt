@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             IT123PFinalTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "asdafdgwsedrf vsdvfb sdx cfdvc vddfcxvzfdsx cxvdfscf ",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
@@ -29,11 +29,11 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+// asdasdfkjasofdhoidhflisadbfvdkjsdfkjgfhaslkfh
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
-        text = "Hello $name!",
+        text = "Hasdfasdfzsdfa$name!",
         modifier = modifier
     )
 }
